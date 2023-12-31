@@ -1,4 +1,4 @@
-# Nesios-Tweaks-Addon
+# Nesios-Better-Addon
 
 The Nesios Tweaks Addon adds small aesthetic modifications to keep the spirit of the game.
 
