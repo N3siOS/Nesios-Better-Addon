@@ -1,18 +1,16 @@
-# Nesios-Better-Addon
+# Nesios Better Addon 1.0.0
 
-The Nesios Tweaks Addon adds small aesthetic modifications to keep the spirit of the game.
+The Nesios Better Addon adds small aesthetic modifications to keep the spirit of the game.
 
-- *the pack is currently in alpha it is possible that some modifications are not definitive.*
+- *the pack is currently in Beta it is possible that some modifications are not definitive.*
 
-Resource pack for Minecraft Java Edition version 1.18+.
+Resource pack for Minecraft Java Edition version 1.20+.
 
 ### Downloads
 
--> Github
+-> Source : [Github](https://github.com/N3siOS/Nesios-Better-Tweaks/releases)
 
--> Curseforge
-
--> Planet Minecraft
+-> [Planet Minecraft for public beta](https://www.planetminecraft.com/texture-pack/nesios-better-tweaks/)
 
 ### Installation
 
@@ -26,7 +24,7 @@ To use the add-on you just have to drag it into your resource pack folder, then 
 
 ### List of additions
 
-- Adding Nesios Food Addon. (delete after)
+- Adding Nesios Food Addon. (merge pack)
 - Added new textures for the top of the wood blocks.
 - Rework lily pad.
 - add variants texture and model for lilypad.
@@ -42,26 +40,23 @@ To use the add-on you just have to drag it into your resource pack folder, then 
 - add better on/off visibility on lever.
 - Change hopper model uv mapping and add arrow in inside texture.
 - Rework shadows entity texture.
+- Change chest and trapped chest texture.
 - Change shield model.
 - Redesign book and enchanted book texture.
 - Fix pixel in smoker bottom texture.
-- 3D model for mushroom and fungus.(in test)
-- Add 3d model for torch.
-
-### To-do
-
-- Add trapdoor side texture.(in progress)
-- Colors for rune effect enchanting table.
-- Rework GUI.(in progress)
-- Rework a kelps design.
-- Rework cactus design
-- short tall grass and tall sea grass
+- 3D model for mushroom and fungus.
+- Add 3d model for torch, soul torch and redstone torch.
+- Redesign redstone torch texture.
+- Removal of ashes under the campfire off.
+- Rework bone meal texture.
+- Add opacity to tripwire texture.
+- Change cobblestone texture to desaturate deepslate top texture.
+- Add trapdoor side texture and rework gui position and scale.
+- Additions of a tree on sweet berries bush.
 
 ### Compatibility
 
 This pack is designed to be used in vanilla all modifications are fully compatible with optifine and sodium.
-
-### Project tracking
 
 ### License
 
