@@ -1,0 +1,24 @@
+{
+	"credit": "Made by Nesios with Blockbench ",
+	"parent": "trapdoor",
+	"textures": {
+		"0": "block/birch_trapdoor",
+		"1": "block/trapdoor/birch_trapdoor_side",
+		"particle": "block/birch_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "item.minecraft.porkchop": "Bacon",
+  "item.minecraft.cooked_porkchop": "Smoked Bacon",
+  "container.inventory":"",
+  "container.crafting": "",
+  "container.brewing":""
+}

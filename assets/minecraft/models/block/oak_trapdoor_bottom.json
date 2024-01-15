@@ -1,0 +1,61 @@
+{
+	"credit": "Made by Nesios with Blockbench ",
+	"parent": "trapdoor",
+	"textures": {
+		"0": "block/oak_trapdoor",
+		"1": "block/trapdoor/oak_tradoor_side",
+		"particle": "block/oak_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [59.35, 58.05, -1.85],
+			"translation": [-0.25, 3.25, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [59.35, 58.05, -1.85],
+			"translation": [-0.25, 3.25, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [-9.17, 13.17, 35.33],
+			"translation": [-0.25, 2.25, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-9.17, 13.17, 35.33],
+			"translation": [-0.25, 2.25, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [32.2, 38.5, 1.55],
+			"translation": [0, 1.25, 0],
+			"scale": [0.62, 0.66, 0.62]
+		},
+		"head": {
+			"translation": [0, 11, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -6]
+		}
+	}
+}

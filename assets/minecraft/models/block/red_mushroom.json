@@ -1,0 +1,70 @@
+{
+	"credit": "Made by Nesios with Blockbench ",
+	"parent": "mushroom",
+	"textures": {
+		"0": "block/mushroom/red_mushroom_skin",
+		"particle": "block/mushroom/red_mushroom_skin"
+	},
+	"elements": [
+		{
+			"from": [7.0601, 0, 5.9601],
+			"to": [9.95776, 2.89766, 8.85776],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.7136, 0, 1.6136]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"up": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.61126, 2.89766, 4.51126],
+			"to": [11.47903, 6.51974, 10.37903],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.26477, 0, 3.06243]},
+			"faces": {
+				"north": {"uv": [0, 7, 7, 11], "texture": "#0"},
+				"east": {"uv": [7, 7, 0, 11], "texture": "#0"},
+				"south": {"uv": [0, 7, 7, 11], "texture": "#0"},
+				"west": {"uv": [7, 7, 0, 11], "texture": "#0"},
+				"up": {"uv": [7, 4, 0, 11], "texture": "#0"},
+				"down": {"uv": [7, 4, 14, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, 1.5],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.75, 1.5],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [-19.94, 6.69, -17.82],
+			"translation": [0, 2.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-19.94, 6.69, -17.82],
+			"translation": [0, 2.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 14.25, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
