@@ -1,5 +1,7 @@
 # Nesios Better Addon 1.0.0
 
+![first_screen](https://github.com/N3siOS/Nesios-Better-Addon/assets/52352139/a75dafb9-103b-43f1-a643-125da669d191)
+
 The Nesios Better Addon adds small aesthetic modifications to keep the spirit of the game.
 
 - *the pack is currently in Beta it is possible that some modifications are not definitive.*
